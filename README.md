@@ -7,4 +7,4 @@ Pivot tables and charts were used to summarize metrics such as occupation distri
 A dashboard was created to present the insights in a clear and interactive format.
 The project highlights skills in data cleaning, categorization, visualization, and reporting using Excel.
 
-MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1bR0MJkclQ76BevdjrlHhyOniyNDJW4hz/edit?usp=sharing&ouid=107422091584559042172&rtpof=true&sd=true
+MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1KHx3mXpU64pKK__FFytXmGMtp9Nlx8lA/edit?usp=sharing&ouid=107422091584559042172&rtpof=true&sd=true
